@@ -1,4 +1,4 @@
-Bu proje C# Eğitim Kampını kapsamında, C# ve Entity Framework metotları kullanılarak geliştirilmiş bir tur/seyahat istatistikleri uygulamasıdır. Uygulama içerisinde lokasyon sayısı, toplam kapasite, rehber sayısı, ortalama tur fiyatı gibi birçok istatistik kullanıcıya görsel paneller üzerinden sunulmaktadır. Veriler veritabanından çekilerek anlık olarak ekranda gösterilmektedir. Proje, Entity Framework Linq sorgular ile veritabanı sorgularını pratik bir şekilde kullanmayı ve Windows Forms üzerinde görselleştirmeyi amaçlamaktadır. Örnek ekran görüntüsüde aşağıdadır.
+Bu proje C# Eğitim Kampını kapsamında, C# ve Entity Framework metotları kullanılarak geliştirilmiş bir tur/seyahat istatistikleri uygulamasıdır. Uygulama içerisinde lokasyon sayısı, toplam kapasite, rehber sayısı, ortalama tur fiyatı gibi birçok istatistik kullanıcıya görsel paneller üzerinden sunulmaktadır. Veriler veritabanından çekilerek anlık olarak ekranda gösterilmektedir. Proje, Entity Framework LINQ ile veritabanı sorgularını pratik bir şekilde kullanmayı ve Windows Forms üzerinde görselleştirmeyi amaçlamaktadır. Örnek ekran görüntüsüde aşağıdadır.
 <br>
 <br>
 
