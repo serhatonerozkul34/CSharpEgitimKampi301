@@ -62,5 +62,6 @@ namespace CSharpEgitimKampi301.PresentationLayer
             updatedValues.CategoryStatus = true;
             _categoryService.TUpdate(updatedValues);
         }
+
     }
 }
